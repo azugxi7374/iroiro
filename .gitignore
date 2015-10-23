@@ -1,5 +1,9 @@
-*~
 target
 .idea
+tmp
 
-Java/src/main/java/Main.java
+*~
+*.jar
+
+Main.java
+
